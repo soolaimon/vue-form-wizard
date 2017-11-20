@@ -172,6 +172,7 @@
           nextTab: this.nextTab,
           prevTab: this.prevTab,
           activeTabIndex: this.activeTabIndex,
+          activeTabTitle: this.title,
           isLastStep: this.isLastStep,
           fillButtonStyle: this.fillButtonStyle
         }
